@@ -52,7 +52,7 @@ if your main file has the function called "calc" you can access this function on
 
 # USING DAY BY DAY
 
-  - [HTTP communication in go](API) (WRITING)
+  - [HTTP communication in go](API)
   - [Data Base communication in go](DB) (WRITING)
   - [The go mod](goMod) (WRITING)
 
