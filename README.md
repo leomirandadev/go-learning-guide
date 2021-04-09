@@ -45,10 +45,11 @@ if your main file has the function called "calc" you can access this function on
   - [Functions in go](functions)
   - [Pointers in go](pointers)
   - [Interfaces in go](interfaces)
-  - [Errors in go](errors)
-  - [Tests in go](tests)
-  - [Routines in go](routines)
-  - [Channels in go](channels)
+  
+  - [Errors in go](errors) (WRITING)
+  - [Tests in go](tests) (WRITING)
+  - [Routines in go](routines) (WRITING)
+  - [Channels in go](channels) (WRITING)
 
 # USING DAY BY DAY
 
