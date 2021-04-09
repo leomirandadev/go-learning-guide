@@ -46,16 +46,16 @@ if your main file has the function called "calc" you can access this function on
   - [Pointers in go](pointers)
   - [Interfaces in go](interfaces)
   - [Errors in go](errors)
-  
-  - [Tests in go](tests) (WRITING)
+  - [Tests in go](tests)
+
   - [Routines in go](routines) (WRITING)
   - [Channels in go](channels) (WRITING)
 
 # USING DAY BY DAY
 
-  - [HTTP communication in go](API)
-  - [Data Base communication in go](DB)
-  - [The go mod](goMod)
+  - [HTTP communication in go](API) (WRITING)
+  - [Data Base communication in go](DB) (WRITING)
+  - [The go mod](goMod) (WRITING)
 
 # MORE
   - [Clean Architecture with Golang](https://github.com/leomirandadev/clean-architecture-go)
