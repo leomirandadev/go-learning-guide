@@ -47,8 +47,7 @@ if your main file has the function called "calc" you can access this function on
   - [Interfaces in go](interfaces)
   - [Errors in go](errors)
   - [Tests in go](tests)
-
-  - [Routines in go](routines) (WRITING)
+  - [Routines in go](routines)
   - [Channels in go](channels) (WRITING)
 
 # USING DAY BY DAY
