@@ -1,5 +1,7 @@
 # This is the guide of how to learn Golang
 
+**Install golang: [GOLANG OFFICIAL](https://golang.org/)** 
+
 First, you should know the basic characteristics of go.
 
 Go is compiled. If you need test your application before the build you can use:
