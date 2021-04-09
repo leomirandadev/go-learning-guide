@@ -45,8 +45,8 @@ if your main file has the function called "calc" you can access this function on
   - [Functions in go](functions)
   - [Pointers in go](pointers)
   - [Interfaces in go](interfaces)
+  - [Errors in go](errors)
   
-  - [Errors in go](errors) (WRITING)
   - [Tests in go](tests) (WRITING)
   - [Routines in go](routines) (WRITING)
   - [Channels in go](channels) (WRITING)
